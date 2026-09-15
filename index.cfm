@@ -2,4 +2,6 @@
 <cfoutput>#myName#</cfoutput>
 <br>
 <cfset myName="Dharani k">
-<cfoutput>Hello #myName#</cfoutput>
+<cfset myPosition = "cold fusion developer">
+<cfoutput>Hello my name is #myName# and my position is #myPosition#
+</cfoutput>
